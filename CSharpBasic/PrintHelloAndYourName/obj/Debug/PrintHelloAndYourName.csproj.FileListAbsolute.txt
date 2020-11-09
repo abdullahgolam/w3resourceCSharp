@@ -1,0 +1,7 @@
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\PrintHelloAndYourName\bin\Debug\PrintHelloAndYourName.exe.config
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\PrintHelloAndYourName\bin\Debug\PrintHelloAndYourName.exe
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\PrintHelloAndYourName\bin\Debug\PrintHelloAndYourName.pdb
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\PrintHelloAndYourName\obj\Debug\PrintHelloAndYourName.csprojAssemblyReference.cache
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\PrintHelloAndYourName\obj\Debug\PrintHelloAndYourName.csproj.CoreCompileInputs.cache
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\PrintHelloAndYourName\obj\Debug\PrintHelloAndYourName.exe
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\PrintHelloAndYourName\obj\Debug\PrintHelloAndYourName.pdb
