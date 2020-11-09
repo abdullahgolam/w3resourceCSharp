@@ -1,0 +1,6 @@
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\PrintTheSumOfTwoNumbers\bin\Debug\PrintTheSumOfTwoNumbers.exe.config
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\PrintTheSumOfTwoNumbers\bin\Debug\PrintTheSumOfTwoNumbers.exe
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\PrintTheSumOfTwoNumbers\bin\Debug\PrintTheSumOfTwoNumbers.pdb
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\PrintTheSumOfTwoNumbers\obj\Debug\PrintTheSumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\PrintTheSumOfTwoNumbers\obj\Debug\PrintTheSumOfTwoNumbers.exe
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\PrintTheSumOfTwoNumbers\obj\Debug\PrintTheSumOfTwoNumbers.pdb
