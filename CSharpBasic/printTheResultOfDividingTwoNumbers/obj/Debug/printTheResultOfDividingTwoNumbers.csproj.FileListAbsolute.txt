@@ -1,0 +1,7 @@
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\printTheResultOfDividingTwoNumbers\bin\Debug\printTheResultOfDividingTwoNumbers.exe.config
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\printTheResultOfDividingTwoNumbers\bin\Debug\printTheResultOfDividingTwoNumbers.exe
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\printTheResultOfDividingTwoNumbers\bin\Debug\printTheResultOfDividingTwoNumbers.pdb
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\printTheResultOfDividingTwoNumbers\obj\Debug\printTheResultOfDividingTwoNumbers.csprojAssemblyReference.cache
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\printTheResultOfDividingTwoNumbers\obj\Debug\printTheResultOfDividingTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\printTheResultOfDividingTwoNumbers\obj\Debug\printTheResultOfDividingTwoNumbers.exe
+C:\Users\a00801\source\repos\w3resourceCSharp\CSharpBasic\printTheResultOfDividingTwoNumbers\obj\Debug\printTheResultOfDividingTwoNumbers.pdb

@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintHelloAndYourName", "Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintTheSumOfTwoNumbers", "PrintTheSumOfTwoNumbers\PrintTheSumOfTwoNumbers.csproj", "{24AECA80-6104-4DE6-B631-00BFA0F42584}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "printTheResultOfDividingTwoNumbers", "printTheResultOfDividingTwoNumbers\printTheResultOfDividingTwoNumbers.csproj", "{DA3CE4D0-D56D-4583-BD6C-598638696910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "printTheResult", "printTheResult\printTheResult.csproj", "{03C730BC-FE10-4E25-9998-722E8B43942E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{24AECA80-6104-4DE6-B631-00BFA0F42584}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24AECA80-6104-4DE6-B631-00BFA0F42584}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24AECA80-6104-4DE6-B631-00BFA0F42584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3CE4D0-D56D-4583-BD6C-598638696910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3CE4D0-D56D-4583-BD6C-598638696910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3CE4D0-D56D-4583-BD6C-598638696910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3CE4D0-D56D-4583-BD6C-598638696910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C730BC-FE10-4E25-9998-722E8B43942E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C730BC-FE10-4E25-9998-722E8B43942E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C730BC-FE10-4E25-9998-722E8B43942E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C730BC-FE10-4E25-9998-722E8B43942E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
